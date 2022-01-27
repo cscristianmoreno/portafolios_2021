@@ -150,6 +150,10 @@
         word-break: break-all;
         font-size: 13px;
     }
+
+    .class_main_about .class_button_cv {
+        margin-top: 50px;
+    }
 }
 
 /* Pixel 2 */
