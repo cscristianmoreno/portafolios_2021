@@ -1,0 +1,12 @@
+[
+    { "name": "Chomba Pampero", "image": "chomba_pampero_tilcara_blanca.jpg", "price": 1750, "category": "remera" },
+    { "name": "Remera Básica Verde", "image": "remera_basica_verde.jpg", "price": 1400, "category": "remera" },
+    { "name": "Remera Térmica", "image": "remera_termica.jpg", "price": 1750, "category": "remera" },
+    { "name": "Remera Uchiha", "image": "remera_uchiha.jpg", "price": 900, "category": "remera" },
+    { "name": "Remera Adultos Dobby", "image": "remera_adultos_dobby.jpg", "price": 1300, "category": "remera" },
+    { "name": "Remera Central Perk", "image": "remera_central_perk.jpg", "price": 1450, "category": "remera" },
+    { "name": "Remera Malfoy 07", "image": "remera_malfoy_07.jpg", "price": 1650, "category": "remera" },
+    { "name": "Remera Pixar", "image": "remera_pixar.jpg", "price": 1325, "category": "remera" },
+    { "name": "Remera r4_60_aniversario", "image": "remera_r4_60_aniversario.jpg", "price": 1050, "category": "remera" },
+    { "name": "Remera Slazeng", "image": "remera_slazenger.jpg", "price": 2350, "category": "remera" }
+]
